@@ -1,0 +1,75 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_db1_name": {
+            "value": null
+        },
+        "virtualMachines_js1_name": {
+            "value": null
+        },
+        "virtualMachines_ws1_name": {
+            "value": null
+        },
+        "virtualMachines_ws2_name": {
+            "value": null
+        },
+        "networkInterfaces_nic1_name": {
+            "value": null
+        },
+        "networkInterfaces_js172_name": {
+            "value": null
+        },
+        "networkInterfaces_db1648_name": {
+            "value": null
+        },
+        "networkInterfaces_ws1839_name": {
+            "value": null
+        },
+        "networkInterfaces_ws2832_name": {
+            "value": null
+        },
+        "virtualNetworks_corpvnet_name": {
+            "value": null
+        },
+        "publicIPAddresses_JSpubIP_name": {
+            "value": null
+        },
+        "availabilitySets_webavalset_name": {
+            "value": null
+        },
+        "storageAccounts_rg11diag161_name": {
+            "value": null
+        },
+        "networkSecurityGroups_rdpnsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_webNSG_name": {
+            "value": null
+        },
+        "subnets_dbsubnet_name": {
+            "value": null
+        },
+        "subnets_websubnet_name": {
+            "value": null
+        },
+        "securityRules_Port_80_name": {
+            "value": null
+        },
+        "securityRules_Port_rdp_name": {
+            "value": null
+        },
+        "virtualMachines_db1_id": {
+            "value": null
+        },
+        "virtualMachines_js1_id": {
+            "value": null
+        },
+        "virtualMachines_ws1_id": {
+            "value": null
+        },
+        "virtualMachines_ws2_id": {
+            "value": null
+        }
+    }
+}
